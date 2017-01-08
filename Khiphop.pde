@@ -28,12 +28,12 @@ Khiphop() {
   //textFont(createFont("arialBlack.ttf", 80));
   textAlign(LEFT);
 
-  imgLeft = loadImage("img/left.png");
-  imgUp = loadImage("img/up.png");
-  imgRight = loadImage("img/right.png");
-  imgDown = loadImage("img/down.png");
-  imgCircle = loadImage("img/circle.png");
-  k011 = loadImage("img/k011.jpg");
+  imgLeft = loadImage("left.png");
+  imgUp = loadImage("up.png");
+  imgRight = loadImage("right.png");
+  imgDown = loadImage("down.png");
+  imgCircle = loadImage("circle.png");
+  k011 = loadImage("k011.jpg");
   firstNoteX = 650; 
 
   
